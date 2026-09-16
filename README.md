@@ -12,6 +12,8 @@ Steady RANS simulation of the Ahmed bluff body at 25° slant, validated against 
 | | This work | Reference | Error |
 |---|---|---|---|
 | Cd | 0.301 | 0.299 | +0.7% |
+
+
 Cd matches within 1%.
 
 ## Setup
